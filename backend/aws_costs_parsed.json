@@ -1,0 +1,1502 @@
+[
+  {
+    "date": "2025-09-17",
+    "service": "Amazon EC2",
+    "cost": 43.71
+  },
+  {
+    "date": "2025-09-17",
+    "service": "Amazon RDS",
+    "cost": 27.2
+  },
+  {
+    "date": "2025-09-17",
+    "service": "Amazon S3",
+    "cost": 42.03
+  },
+  {
+    "date": "2025-09-17",
+    "service": "AWS Lambda",
+    "cost": 20.74
+  },
+  {
+    "date": "2025-09-17",
+    "service": "Amazon CloudFront",
+    "cost": 9.63
+  },
+  {
+    "date": "2025-09-17",
+    "service": "Amazon DynamoDB",
+    "cost": 17.78
+  },
+  {
+    "date": "2025-09-17",
+    "service": "AWS Data Transfer",
+    "cost": 31.05
+  },
+  {
+    "date": "2025-09-17",
+    "service": "Amazon ECS",
+    "cost": 14.02
+  },
+  {
+    "date": "2025-09-17",
+    "service": "Amazon VPC",
+    "cost": 40.89
+  },
+  {
+    "date": "2025-09-17",
+    "service": "Amazon Route 53",
+    "cost": 49.41
+  },
+  {
+    "date": "2025-09-18",
+    "service": "Amazon EC2",
+    "cost": 43.07
+  },
+  {
+    "date": "2025-09-18",
+    "service": "Amazon RDS",
+    "cost": 48.98
+  },
+  {
+    "date": "2025-09-18",
+    "service": "Amazon S3",
+    "cost": 18.26
+  },
+  {
+    "date": "2025-09-18",
+    "service": "AWS Lambda",
+    "cost": 13.08
+  },
+  {
+    "date": "2025-09-18",
+    "service": "Amazon CloudFront",
+    "cost": 24.73
+  },
+  {
+    "date": "2025-09-18",
+    "service": "Amazon DynamoDB",
+    "cost": 38.86
+  },
+  {
+    "date": "2025-09-18",
+    "service": "AWS Data Transfer",
+    "cost": 27.42
+  },
+  {
+    "date": "2025-09-18",
+    "service": "Amazon ECS",
+    "cost": 31.44
+  },
+  {
+    "date": "2025-09-18",
+    "service": "Amazon VPC",
+    "cost": 23.61
+  },
+  {
+    "date": "2025-09-18",
+    "service": "Amazon Route 53",
+    "cost": 16.85
+  },
+  {
+    "date": "2025-09-19",
+    "service": "Amazon EC2",
+    "cost": 17.42
+  },
+  {
+    "date": "2025-09-19",
+    "service": "Amazon RDS",
+    "cost": 45.53
+  },
+  {
+    "date": "2025-09-19",
+    "service": "Amazon S3",
+    "cost": 3.33
+  },
+  {
+    "date": "2025-09-19",
+    "service": "AWS Lambda",
+    "cost": 37.04
+  },
+  {
+    "date": "2025-09-19",
+    "service": "Amazon CloudFront",
+    "cost": 26.69
+  },
+  {
+    "date": "2025-09-19",
+    "service": "Amazon DynamoDB",
+    "cost": 29.99
+  },
+  {
+    "date": "2025-09-19",
+    "service": "AWS Data Transfer",
+    "cost": 4.06
+  },
+  {
+    "date": "2025-09-19",
+    "service": "Amazon ECS",
+    "cost": 12.16
+  },
+  {
+    "date": "2025-09-19",
+    "service": "Amazon VPC",
+    "cost": 47.37
+  },
+  {
+    "date": "2025-09-19",
+    "service": "Amazon Route 53",
+    "cost": 17.64
+  },
+  {
+    "date": "2025-09-20",
+    "service": "Amazon EC2",
+    "cost": 29.41
+  },
+  {
+    "date": "2025-09-20",
+    "service": "Amazon RDS",
+    "cost": 29.83
+  },
+  {
+    "date": "2025-09-20",
+    "service": "Amazon S3",
+    "cost": 10.44
+  },
+  {
+    "date": "2025-09-20",
+    "service": "AWS Lambda",
+    "cost": 33.13
+  },
+  {
+    "date": "2025-09-20",
+    "service": "Amazon CloudFront",
+    "cost": 37.61
+  },
+  {
+    "date": "2025-09-20",
+    "service": "Amazon DynamoDB",
+    "cost": 9.44
+  },
+  {
+    "date": "2025-09-20",
+    "service": "AWS Data Transfer",
+    "cost": 34.98
+  },
+  {
+    "date": "2025-09-20",
+    "service": "Amazon ECS",
+    "cost": 49.95
+  },
+  {
+    "date": "2025-09-20",
+    "service": "Amazon VPC",
+    "cost": 35.74
+  },
+  {
+    "date": "2025-09-20",
+    "service": "Amazon Route 53",
+    "cost": 19.05
+  },
+  {
+    "date": "2025-09-21",
+    "service": "Amazon EC2",
+    "cost": 27.28
+  },
+  {
+    "date": "2025-09-21",
+    "service": "Amazon RDS",
+    "cost": 33.53
+  },
+  {
+    "date": "2025-09-21",
+    "service": "Amazon S3",
+    "cost": 46.85
+  },
+  {
+    "date": "2025-09-21",
+    "service": "AWS Lambda",
+    "cost": 33.7
+  },
+  {
+    "date": "2025-09-21",
+    "service": "Amazon CloudFront",
+    "cost": 27.14
+  },
+  {
+    "date": "2025-09-21",
+    "service": "Amazon DynamoDB",
+    "cost": 21.53
+  },
+  {
+    "date": "2025-09-21",
+    "service": "AWS Data Transfer",
+    "cost": 24.69
+  },
+  {
+    "date": "2025-09-21",
+    "service": "Amazon ECS",
+    "cost": 23.6
+  },
+  {
+    "date": "2025-09-21",
+    "service": "Amazon VPC",
+    "cost": 43.17
+  },
+  {
+    "date": "2025-09-21",
+    "service": "Amazon Route 53",
+    "cost": 31.94
+  },
+  {
+    "date": "2025-09-22",
+    "service": "Amazon EC2",
+    "cost": 13.74
+  },
+  {
+    "date": "2025-09-22",
+    "service": "Amazon RDS",
+    "cost": 17.55
+  },
+  {
+    "date": "2025-09-22",
+    "service": "Amazon S3",
+    "cost": 38.26
+  },
+  {
+    "date": "2025-09-22",
+    "service": "AWS Lambda",
+    "cost": 32.51
+  },
+  {
+    "date": "2025-09-22",
+    "service": "Amazon CloudFront",
+    "cost": 38.41
+  },
+  {
+    "date": "2025-09-22",
+    "service": "Amazon DynamoDB",
+    "cost": 30.08
+  },
+  {
+    "date": "2025-09-22",
+    "service": "AWS Data Transfer",
+    "cost": 47.03
+  },
+  {
+    "date": "2025-09-22",
+    "service": "Amazon ECS",
+    "cost": 11.6
+  },
+  {
+    "date": "2025-09-22",
+    "service": "Amazon VPC",
+    "cost": 16.44
+  },
+  {
+    "date": "2025-09-22",
+    "service": "Amazon Route 53",
+    "cost": 16.37
+  },
+  {
+    "date": "2025-09-23",
+    "service": "Amazon EC2",
+    "cost": 11.08
+  },
+  {
+    "date": "2025-09-23",
+    "service": "Amazon RDS",
+    "cost": 8.53
+  },
+  {
+    "date": "2025-09-23",
+    "service": "Amazon S3",
+    "cost": 13.4
+  },
+  {
+    "date": "2025-09-23",
+    "service": "AWS Lambda",
+    "cost": 35.02
+  },
+  {
+    "date": "2025-09-23",
+    "service": "Amazon CloudFront",
+    "cost": 42.32
+  },
+  {
+    "date": "2025-09-23",
+    "service": "Amazon DynamoDB",
+    "cost": 17.01
+  },
+  {
+    "date": "2025-09-23",
+    "service": "AWS Data Transfer",
+    "cost": 29.98
+  },
+  {
+    "date": "2025-09-23",
+    "service": "Amazon ECS",
+    "cost": 43.26
+  },
+  {
+    "date": "2025-09-23",
+    "service": "Amazon VPC",
+    "cost": 38.19
+  },
+  {
+    "date": "2025-09-23",
+    "service": "Amazon Route 53",
+    "cost": 32.24
+  },
+  {
+    "date": "2025-09-24",
+    "service": "Amazon EC2",
+    "cost": 19.96
+  },
+  {
+    "date": "2025-09-24",
+    "service": "Amazon RDS",
+    "cost": 25.29
+  },
+  {
+    "date": "2025-09-24",
+    "service": "Amazon S3",
+    "cost": 39.35
+  },
+  {
+    "date": "2025-09-24",
+    "service": "AWS Lambda",
+    "cost": 13.33
+  },
+  {
+    "date": "2025-09-24",
+    "service": "Amazon CloudFront",
+    "cost": 30.44
+  },
+  {
+    "date": "2025-09-24",
+    "service": "Amazon DynamoDB",
+    "cost": 20.53
+  },
+  {
+    "date": "2025-09-24",
+    "service": "AWS Data Transfer",
+    "cost": 13.33
+  },
+  {
+    "date": "2025-09-24",
+    "service": "Amazon ECS",
+    "cost": 25.88
+  },
+  {
+    "date": "2025-09-24",
+    "service": "Amazon VPC",
+    "cost": 26.14
+  },
+  {
+    "date": "2025-09-24",
+    "service": "Amazon Route 53",
+    "cost": 32.23
+  },
+  {
+    "date": "2025-09-25",
+    "service": "Amazon EC2",
+    "cost": 15.87
+  },
+  {
+    "date": "2025-09-25",
+    "service": "Amazon RDS",
+    "cost": 4.21
+  },
+  {
+    "date": "2025-09-25",
+    "service": "Amazon S3",
+    "cost": 38.15
+  },
+  {
+    "date": "2025-09-25",
+    "service": "AWS Lambda",
+    "cost": 9.1
+  },
+  {
+    "date": "2025-09-25",
+    "service": "Amazon CloudFront",
+    "cost": 49.98
+  },
+  {
+    "date": "2025-09-25",
+    "service": "Amazon DynamoDB",
+    "cost": 41.35
+  },
+  {
+    "date": "2025-09-25",
+    "service": "AWS Data Transfer",
+    "cost": 21.54
+  },
+  {
+    "date": "2025-09-25",
+    "service": "Amazon ECS",
+    "cost": 26.6
+  },
+  {
+    "date": "2025-09-25",
+    "service": "Amazon VPC",
+    "cost": 39.71
+  },
+  {
+    "date": "2025-09-25",
+    "service": "Amazon Route 53",
+    "cost": 44.61
+  },
+  {
+    "date": "2025-09-26",
+    "service": "Amazon EC2",
+    "cost": 8.26
+  },
+  {
+    "date": "2025-09-26",
+    "service": "Amazon RDS",
+    "cost": 3.27
+  },
+  {
+    "date": "2025-09-26",
+    "service": "Amazon S3",
+    "cost": 20.97
+  },
+  {
+    "date": "2025-09-26",
+    "service": "AWS Lambda",
+    "cost": 20.75
+  },
+  {
+    "date": "2025-09-26",
+    "service": "Amazon CloudFront",
+    "cost": 47.75
+  },
+  {
+    "date": "2025-09-26",
+    "service": "Amazon DynamoDB",
+    "cost": 31.02
+  },
+  {
+    "date": "2025-09-26",
+    "service": "AWS Data Transfer",
+    "cost": 13.02
+  },
+  {
+    "date": "2025-09-26",
+    "service": "Amazon ECS",
+    "cost": 4.96
+  },
+  {
+    "date": "2025-09-26",
+    "service": "Amazon VPC",
+    "cost": 37.45
+  },
+  {
+    "date": "2025-09-26",
+    "service": "Amazon Route 53",
+    "cost": 29.17
+  },
+  {
+    "date": "2025-09-27",
+    "service": "Amazon EC2",
+    "cost": 36.9
+  },
+  {
+    "date": "2025-09-27",
+    "service": "Amazon RDS",
+    "cost": 26.2
+  },
+  {
+    "date": "2025-09-27",
+    "service": "Amazon S3",
+    "cost": 28.51
+  },
+  {
+    "date": "2025-09-27",
+    "service": "AWS Lambda",
+    "cost": 45.04
+  },
+  {
+    "date": "2025-09-27",
+    "service": "Amazon CloudFront",
+    "cost": 33.06
+  },
+  {
+    "date": "2025-09-27",
+    "service": "Amazon DynamoDB",
+    "cost": 41.86
+  },
+  {
+    "date": "2025-09-27",
+    "service": "AWS Data Transfer",
+    "cost": 8.98
+  },
+  {
+    "date": "2025-09-27",
+    "service": "Amazon ECS",
+    "cost": 0.77
+  },
+  {
+    "date": "2025-09-27",
+    "service": "Amazon VPC",
+    "cost": 46.32
+  },
+  {
+    "date": "2025-09-27",
+    "service": "Amazon Route 53",
+    "cost": 19.09
+  },
+  {
+    "date": "2025-09-28",
+    "service": "Amazon EC2",
+    "cost": 7.3
+  },
+  {
+    "date": "2025-09-28",
+    "service": "Amazon RDS",
+    "cost": 17.76
+  },
+  {
+    "date": "2025-09-28",
+    "service": "Amazon S3",
+    "cost": 33.24
+  },
+  {
+    "date": "2025-09-28",
+    "service": "AWS Lambda",
+    "cost": 48.51
+  },
+  {
+    "date": "2025-09-28",
+    "service": "Amazon CloudFront",
+    "cost": 39.61
+  },
+  {
+    "date": "2025-09-28",
+    "service": "Amazon DynamoDB",
+    "cost": 17.38
+  },
+  {
+    "date": "2025-09-28",
+    "service": "AWS Data Transfer",
+    "cost": 18.2
+  },
+  {
+    "date": "2025-09-28",
+    "service": "Amazon ECS",
+    "cost": 4.81
+  },
+  {
+    "date": "2025-09-28",
+    "service": "Amazon VPC",
+    "cost": 29.83
+  },
+  {
+    "date": "2025-09-28",
+    "service": "Amazon Route 53",
+    "cost": 49.37
+  },
+  {
+    "date": "2025-09-29",
+    "service": "Amazon EC2",
+    "cost": 19.7
+  },
+  {
+    "date": "2025-09-29",
+    "service": "Amazon RDS",
+    "cost": 22.61
+  },
+  {
+    "date": "2025-09-29",
+    "service": "Amazon S3",
+    "cost": 12.96
+  },
+  {
+    "date": "2025-09-29",
+    "service": "AWS Lambda",
+    "cost": 19.6
+  },
+  {
+    "date": "2025-09-29",
+    "service": "Amazon CloudFront",
+    "cost": 46.07
+  },
+  {
+    "date": "2025-09-29",
+    "service": "Amazon DynamoDB",
+    "cost": 30.31
+  },
+  {
+    "date": "2025-09-29",
+    "service": "AWS Data Transfer",
+    "cost": 27.56
+  },
+  {
+    "date": "2025-09-29",
+    "service": "Amazon ECS",
+    "cost": 15.02
+  },
+  {
+    "date": "2025-09-29",
+    "service": "Amazon VPC",
+    "cost": 10.18
+  },
+  {
+    "date": "2025-09-29",
+    "service": "Amazon Route 53",
+    "cost": 11.63
+  },
+  {
+    "date": "2025-09-30",
+    "service": "Amazon EC2",
+    "cost": 2.15
+  },
+  {
+    "date": "2025-09-30",
+    "service": "Amazon RDS",
+    "cost": 6.8
+  },
+  {
+    "date": "2025-09-30",
+    "service": "Amazon S3",
+    "cost": 34.4
+  },
+  {
+    "date": "2025-09-30",
+    "service": "AWS Lambda",
+    "cost": 29.03
+  },
+  {
+    "date": "2025-09-30",
+    "service": "Amazon CloudFront",
+    "cost": 27.41
+  },
+  {
+    "date": "2025-09-30",
+    "service": "Amazon DynamoDB",
+    "cost": 25.37
+  },
+  {
+    "date": "2025-09-30",
+    "service": "AWS Data Transfer",
+    "cost": 28.41
+  },
+  {
+    "date": "2025-09-30",
+    "service": "Amazon ECS",
+    "cost": 22.31
+  },
+  {
+    "date": "2025-09-30",
+    "service": "Amazon VPC",
+    "cost": 24.22
+  },
+  {
+    "date": "2025-09-30",
+    "service": "Amazon Route 53",
+    "cost": 19.08
+  },
+  {
+    "date": "2025-10-01",
+    "service": "Amazon EC2",
+    "cost": 48.9
+  },
+  {
+    "date": "2025-10-01",
+    "service": "Amazon RDS",
+    "cost": 12.4
+  },
+  {
+    "date": "2025-10-01",
+    "service": "Amazon S3",
+    "cost": 5.4
+  },
+  {
+    "date": "2025-10-01",
+    "service": "AWS Lambda",
+    "cost": 41.65
+  },
+  {
+    "date": "2025-10-01",
+    "service": "Amazon CloudFront",
+    "cost": 30.88
+  },
+  {
+    "date": "2025-10-01",
+    "service": "Amazon DynamoDB",
+    "cost": 18.89
+  },
+  {
+    "date": "2025-10-01",
+    "service": "AWS Data Transfer",
+    "cost": 9.69
+  },
+  {
+    "date": "2025-10-01",
+    "service": "Amazon ECS",
+    "cost": 18.92
+  },
+  {
+    "date": "2025-10-01",
+    "service": "Amazon VPC",
+    "cost": 34.9
+  },
+  {
+    "date": "2025-10-01",
+    "service": "Amazon Route 53",
+    "cost": 22.79
+  },
+  {
+    "date": "2025-10-02",
+    "service": "Amazon EC2",
+    "cost": 1.8
+  },
+  {
+    "date": "2025-10-02",
+    "service": "Amazon RDS",
+    "cost": 12.38
+  },
+  {
+    "date": "2025-10-02",
+    "service": "Amazon S3",
+    "cost": 44.59
+  },
+  {
+    "date": "2025-10-02",
+    "service": "AWS Lambda",
+    "cost": 9.78
+  },
+  {
+    "date": "2025-10-02",
+    "service": "Amazon CloudFront",
+    "cost": 33.54
+  },
+  {
+    "date": "2025-10-02",
+    "service": "Amazon DynamoDB",
+    "cost": 14.09
+  },
+  {
+    "date": "2025-10-02",
+    "service": "AWS Data Transfer",
+    "cost": 3.2
+  },
+  {
+    "date": "2025-10-02",
+    "service": "Amazon ECS",
+    "cost": 22.49
+  },
+  {
+    "date": "2025-10-02",
+    "service": "Amazon VPC",
+    "cost": 44.55
+  },
+  {
+    "date": "2025-10-02",
+    "service": "Amazon Route 53",
+    "cost": 30.35
+  },
+  {
+    "date": "2025-10-03",
+    "service": "Amazon EC2",
+    "cost": 13.09
+  },
+  {
+    "date": "2025-10-03",
+    "service": "Amazon RDS",
+    "cost": 10.9
+  },
+  {
+    "date": "2025-10-03",
+    "service": "Amazon S3",
+    "cost": 10.1
+  },
+  {
+    "date": "2025-10-03",
+    "service": "AWS Lambda",
+    "cost": 34.71
+  },
+  {
+    "date": "2025-10-03",
+    "service": "Amazon CloudFront",
+    "cost": 39.18
+  },
+  {
+    "date": "2025-10-03",
+    "service": "Amazon DynamoDB",
+    "cost": 7.27
+  },
+  {
+    "date": "2025-10-03",
+    "service": "AWS Data Transfer",
+    "cost": 27.91
+  },
+  {
+    "date": "2025-10-03",
+    "service": "Amazon ECS",
+    "cost": 25.19
+  },
+  {
+    "date": "2025-10-03",
+    "service": "Amazon VPC",
+    "cost": 9.52
+  },
+  {
+    "date": "2025-10-03",
+    "service": "Amazon Route 53",
+    "cost": 31.23
+  },
+  {
+    "date": "2025-10-04",
+    "service": "Amazon EC2",
+    "cost": 25.23
+  },
+  {
+    "date": "2025-10-04",
+    "service": "Amazon RDS",
+    "cost": 44.68
+  },
+  {
+    "date": "2025-10-04",
+    "service": "Amazon S3",
+    "cost": 23.44
+  },
+  {
+    "date": "2025-10-04",
+    "service": "AWS Lambda",
+    "cost": 41.92
+  },
+  {
+    "date": "2025-10-04",
+    "service": "Amazon CloudFront",
+    "cost": 38.74
+  },
+  {
+    "date": "2025-10-04",
+    "service": "Amazon DynamoDB",
+    "cost": 45.38
+  },
+  {
+    "date": "2025-10-04",
+    "service": "AWS Data Transfer",
+    "cost": 45.6
+  },
+  {
+    "date": "2025-10-04",
+    "service": "Amazon ECS",
+    "cost": 0.63
+  },
+  {
+    "date": "2025-10-04",
+    "service": "Amazon VPC",
+    "cost": 3.49
+  },
+  {
+    "date": "2025-10-04",
+    "service": "Amazon Route 53",
+    "cost": 22.47
+  },
+  {
+    "date": "2025-10-05",
+    "service": "Amazon EC2",
+    "cost": 43.19
+  },
+  {
+    "date": "2025-10-05",
+    "service": "Amazon RDS",
+    "cost": 31.57
+  },
+  {
+    "date": "2025-10-05",
+    "service": "Amazon S3",
+    "cost": 3.41
+  },
+  {
+    "date": "2025-10-05",
+    "service": "AWS Lambda",
+    "cost": 10.95
+  },
+  {
+    "date": "2025-10-05",
+    "service": "Amazon CloudFront",
+    "cost": 41.2
+  },
+  {
+    "date": "2025-10-05",
+    "service": "Amazon DynamoDB",
+    "cost": 35.58
+  },
+  {
+    "date": "2025-10-05",
+    "service": "AWS Data Transfer",
+    "cost": 10.99
+  },
+  {
+    "date": "2025-10-05",
+    "service": "Amazon ECS",
+    "cost": 25.89
+  },
+  {
+    "date": "2025-10-05",
+    "service": "Amazon VPC",
+    "cost": 31.62
+  },
+  {
+    "date": "2025-10-05",
+    "service": "Amazon Route 53",
+    "cost": 44.1
+  },
+  {
+    "date": "2025-10-06",
+    "service": "Amazon EC2",
+    "cost": 12.26
+  },
+  {
+    "date": "2025-10-06",
+    "service": "Amazon RDS",
+    "cost": 27.24
+  },
+  {
+    "date": "2025-10-06",
+    "service": "Amazon S3",
+    "cost": 15.13
+  },
+  {
+    "date": "2025-10-06",
+    "service": "AWS Lambda",
+    "cost": 38.87
+  },
+  {
+    "date": "2025-10-06",
+    "service": "Amazon CloudFront",
+    "cost": 28.24
+  },
+  {
+    "date": "2025-10-06",
+    "service": "Amazon DynamoDB",
+    "cost": 26.11
+  },
+  {
+    "date": "2025-10-06",
+    "service": "AWS Data Transfer",
+    "cost": 11.8
+  },
+  {
+    "date": "2025-10-06",
+    "service": "Amazon ECS",
+    "cost": 44.36
+  },
+  {
+    "date": "2025-10-06",
+    "service": "Amazon VPC",
+    "cost": 1.45
+  },
+  {
+    "date": "2025-10-06",
+    "service": "Amazon Route 53",
+    "cost": 46.64
+  },
+  {
+    "date": "2025-10-07",
+    "service": "Amazon EC2",
+    "cost": 13.6
+  },
+  {
+    "date": "2025-10-07",
+    "service": "Amazon RDS",
+    "cost": 8.54
+  },
+  {
+    "date": "2025-10-07",
+    "service": "Amazon S3",
+    "cost": 34.7
+  },
+  {
+    "date": "2025-10-07",
+    "service": "AWS Lambda",
+    "cost": 48.73
+  },
+  {
+    "date": "2025-10-07",
+    "service": "Amazon CloudFront",
+    "cost": 21.86
+  },
+  {
+    "date": "2025-10-07",
+    "service": "Amazon DynamoDB",
+    "cost": 3.83
+  },
+  {
+    "date": "2025-10-07",
+    "service": "AWS Data Transfer",
+    "cost": 37.13
+  },
+  {
+    "date": "2025-10-07",
+    "service": "Amazon ECS",
+    "cost": 18.86
+  },
+  {
+    "date": "2025-10-07",
+    "service": "Amazon VPC",
+    "cost": 2.74
+  },
+  {
+    "date": "2025-10-07",
+    "service": "Amazon Route 53",
+    "cost": 43.4
+  },
+  {
+    "date": "2025-10-08",
+    "service": "Amazon EC2",
+    "cost": 47.81
+  },
+  {
+    "date": "2025-10-08",
+    "service": "Amazon RDS",
+    "cost": 8.4
+  },
+  {
+    "date": "2025-10-08",
+    "service": "Amazon S3",
+    "cost": 33.39
+  },
+  {
+    "date": "2025-10-08",
+    "service": "AWS Lambda",
+    "cost": 26.23
+  },
+  {
+    "date": "2025-10-08",
+    "service": "Amazon CloudFront",
+    "cost": 42.78
+  },
+  {
+    "date": "2025-10-08",
+    "service": "Amazon DynamoDB",
+    "cost": 26.74
+  },
+  {
+    "date": "2025-10-08",
+    "service": "AWS Data Transfer",
+    "cost": 33.85
+  },
+  {
+    "date": "2025-10-08",
+    "service": "Amazon ECS",
+    "cost": 5.18
+  },
+  {
+    "date": "2025-10-08",
+    "service": "Amazon VPC",
+    "cost": 2.79
+  },
+  {
+    "date": "2025-10-08",
+    "service": "Amazon Route 53",
+    "cost": 33.81
+  },
+  {
+    "date": "2025-10-09",
+    "service": "Amazon EC2",
+    "cost": 7.14
+  },
+  {
+    "date": "2025-10-09",
+    "service": "Amazon RDS",
+    "cost": 25.95
+  },
+  {
+    "date": "2025-10-09",
+    "service": "Amazon S3",
+    "cost": 27.92
+  },
+  {
+    "date": "2025-10-09",
+    "service": "AWS Lambda",
+    "cost": 36.47
+  },
+  {
+    "date": "2025-10-09",
+    "service": "Amazon CloudFront",
+    "cost": 14.11
+  },
+  {
+    "date": "2025-10-09",
+    "service": "Amazon DynamoDB",
+    "cost": 35.53
+  },
+  {
+    "date": "2025-10-09",
+    "service": "AWS Data Transfer",
+    "cost": 39.96
+  },
+  {
+    "date": "2025-10-09",
+    "service": "Amazon ECS",
+    "cost": 4.21
+  },
+  {
+    "date": "2025-10-09",
+    "service": "Amazon VPC",
+    "cost": 10.19
+  },
+  {
+    "date": "2025-10-09",
+    "service": "Amazon Route 53",
+    "cost": 20.19
+  },
+  {
+    "date": "2025-10-10",
+    "service": "Amazon EC2",
+    "cost": 19.12
+  },
+  {
+    "date": "2025-10-10",
+    "service": "Amazon RDS",
+    "cost": 14.5
+  },
+  {
+    "date": "2025-10-10",
+    "service": "Amazon S3",
+    "cost": 15.82
+  },
+  {
+    "date": "2025-10-10",
+    "service": "AWS Lambda",
+    "cost": 6.3
+  },
+  {
+    "date": "2025-10-10",
+    "service": "Amazon CloudFront",
+    "cost": 48.6
+  },
+  {
+    "date": "2025-10-10",
+    "service": "Amazon DynamoDB",
+    "cost": 40.3
+  },
+  {
+    "date": "2025-10-10",
+    "service": "AWS Data Transfer",
+    "cost": 29.23
+  },
+  {
+    "date": "2025-10-10",
+    "service": "Amazon ECS",
+    "cost": 37.49
+  },
+  {
+    "date": "2025-10-10",
+    "service": "Amazon VPC",
+    "cost": 1.89
+  },
+  {
+    "date": "2025-10-10",
+    "service": "Amazon Route 53",
+    "cost": 7.55
+  },
+  {
+    "date": "2025-10-11",
+    "service": "Amazon EC2",
+    "cost": 37.72
+  },
+  {
+    "date": "2025-10-11",
+    "service": "Amazon RDS",
+    "cost": 12.99
+  },
+  {
+    "date": "2025-10-11",
+    "service": "Amazon S3",
+    "cost": 41.46
+  },
+  {
+    "date": "2025-10-11",
+    "service": "AWS Lambda",
+    "cost": 22.25
+  },
+  {
+    "date": "2025-10-11",
+    "service": "Amazon CloudFront",
+    "cost": 38.96
+  },
+  {
+    "date": "2025-10-11",
+    "service": "Amazon DynamoDB",
+    "cost": 32.94
+  },
+  {
+    "date": "2025-10-11",
+    "service": "AWS Data Transfer",
+    "cost": 27.82
+  },
+  {
+    "date": "2025-10-11",
+    "service": "Amazon ECS",
+    "cost": 47.31
+  },
+  {
+    "date": "2025-10-11",
+    "service": "Amazon VPC",
+    "cost": 41.99
+  },
+  {
+    "date": "2025-10-11",
+    "service": "Amazon Route 53",
+    "cost": 11.81
+  },
+  {
+    "date": "2025-10-12",
+    "service": "Amazon EC2",
+    "cost": 37.36
+  },
+  {
+    "date": "2025-10-12",
+    "service": "Amazon RDS",
+    "cost": 7.64
+  },
+  {
+    "date": "2025-10-12",
+    "service": "Amazon S3",
+    "cost": 14.13
+  },
+  {
+    "date": "2025-10-12",
+    "service": "AWS Lambda",
+    "cost": 21.52
+  },
+  {
+    "date": "2025-10-12",
+    "service": "Amazon CloudFront",
+    "cost": 6.77
+  },
+  {
+    "date": "2025-10-12",
+    "service": "Amazon DynamoDB",
+    "cost": 49.73
+  },
+  {
+    "date": "2025-10-12",
+    "service": "AWS Data Transfer",
+    "cost": 40.53
+  },
+  {
+    "date": "2025-10-12",
+    "service": "Amazon ECS",
+    "cost": 8.97
+  },
+  {
+    "date": "2025-10-12",
+    "service": "Amazon VPC",
+    "cost": 38.13
+  },
+  {
+    "date": "2025-10-12",
+    "service": "Amazon Route 53",
+    "cost": 17.11
+  },
+  {
+    "date": "2025-10-13",
+    "service": "Amazon EC2",
+    "cost": 47.78
+  },
+  {
+    "date": "2025-10-13",
+    "service": "Amazon RDS",
+    "cost": 36.55
+  },
+  {
+    "date": "2025-10-13",
+    "service": "Amazon S3",
+    "cost": 27.83
+  },
+  {
+    "date": "2025-10-13",
+    "service": "AWS Lambda",
+    "cost": 9.3
+  },
+  {
+    "date": "2025-10-13",
+    "service": "Amazon CloudFront",
+    "cost": 36.04
+  },
+  {
+    "date": "2025-10-13",
+    "service": "Amazon DynamoDB",
+    "cost": 24.21
+  },
+  {
+    "date": "2025-10-13",
+    "service": "AWS Data Transfer",
+    "cost": 49.36
+  },
+  {
+    "date": "2025-10-13",
+    "service": "Amazon ECS",
+    "cost": 36.87
+  },
+  {
+    "date": "2025-10-13",
+    "service": "Amazon VPC",
+    "cost": 44.54
+  },
+  {
+    "date": "2025-10-13",
+    "service": "Amazon Route 53",
+    "cost": 6.83
+  },
+  {
+    "date": "2025-10-14",
+    "service": "Amazon EC2",
+    "cost": 20.53
+  },
+  {
+    "date": "2025-10-14",
+    "service": "Amazon RDS",
+    "cost": 30.01
+  },
+  {
+    "date": "2025-10-14",
+    "service": "Amazon S3",
+    "cost": 2.94
+  },
+  {
+    "date": "2025-10-14",
+    "service": "AWS Lambda",
+    "cost": 33.43
+  },
+  {
+    "date": "2025-10-14",
+    "service": "Amazon CloudFront",
+    "cost": 22.07
+  },
+  {
+    "date": "2025-10-14",
+    "service": "Amazon DynamoDB",
+    "cost": 13.24
+  },
+  {
+    "date": "2025-10-14",
+    "service": "AWS Data Transfer",
+    "cost": 22.05
+  },
+  {
+    "date": "2025-10-14",
+    "service": "Amazon ECS",
+    "cost": 28.09
+  },
+  {
+    "date": "2025-10-14",
+    "service": "Amazon VPC",
+    "cost": 44.18
+  },
+  {
+    "date": "2025-10-14",
+    "service": "Amazon Route 53",
+    "cost": 26.64
+  },
+  {
+    "date": "2025-10-15",
+    "service": "Amazon EC2",
+    "cost": 14.46
+  },
+  {
+    "date": "2025-10-15",
+    "service": "Amazon RDS",
+    "cost": 19.34
+  },
+  {
+    "date": "2025-10-15",
+    "service": "Amazon S3",
+    "cost": 11.96
+  },
+  {
+    "date": "2025-10-15",
+    "service": "AWS Lambda",
+    "cost": 34.73
+  },
+  {
+    "date": "2025-10-15",
+    "service": "Amazon CloudFront",
+    "cost": 28.79
+  },
+  {
+    "date": "2025-10-15",
+    "service": "Amazon DynamoDB",
+    "cost": 25.25
+  },
+  {
+    "date": "2025-10-15",
+    "service": "AWS Data Transfer",
+    "cost": 24.92
+  },
+  {
+    "date": "2025-10-15",
+    "service": "Amazon ECS",
+    "cost": 14.07
+  },
+  {
+    "date": "2025-10-15",
+    "service": "Amazon VPC",
+    "cost": 29.68
+  },
+  {
+    "date": "2025-10-15",
+    "service": "Amazon Route 53",
+    "cost": 13.29
+  },
+  {
+    "date": "2025-10-16",
+    "service": "Amazon EC2",
+    "cost": 25.45
+  },
+  {
+    "date": "2025-10-16",
+    "service": "Amazon RDS",
+    "cost": 27.91
+  },
+  {
+    "date": "2025-10-16",
+    "service": "Amazon S3",
+    "cost": 29.14
+  },
+  {
+    "date": "2025-10-16",
+    "service": "AWS Lambda",
+    "cost": 25.07
+  },
+  {
+    "date": "2025-10-16",
+    "service": "Amazon CloudFront",
+    "cost": 28.88
+  },
+  {
+    "date": "2025-10-16",
+    "service": "Amazon DynamoDB",
+    "cost": 44.19
+  },
+  {
+    "date": "2025-10-16",
+    "service": "AWS Data Transfer",
+    "cost": 36.33
+  },
+  {
+    "date": "2025-10-16",
+    "service": "Amazon ECS",
+    "cost": 43.34
+  },
+  {
+    "date": "2025-10-16",
+    "service": "Amazon VPC",
+    "cost": 7.63
+  },
+  {
+    "date": "2025-10-16",
+    "service": "Amazon Route 53",
+    "cost": 12.29
+  }
+]

@@ -1,0 +1,3605 @@
+{
+  "ResultsByTime": [
+    {
+      "TimePeriod": {
+        "Start": "2025-09-17",
+        "End": "2025-09-17"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "43.71",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "27.2",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "42.03",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "20.74",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "9.63",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "17.78",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "31.05",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "14.02",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "40.89",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "49.41",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-18",
+        "End": "2025-09-18"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "43.07",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "48.98",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "18.26",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "13.08",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "24.73",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "38.86",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "27.42",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "31.44",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "23.61",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "16.85",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-19",
+        "End": "2025-09-19"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "17.42",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "45.53",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "3.33",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "37.04",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "26.69",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "29.99",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "4.06",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "12.16",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "47.37",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "17.64",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-20",
+        "End": "2025-09-20"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "29.41",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "29.83",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "10.44",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "33.13",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "37.61",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "9.44",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "34.98",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "49.95",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "35.74",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "19.05",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-21",
+        "End": "2025-09-21"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "27.28",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "33.53",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "46.85",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "33.7",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "27.14",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "21.53",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "24.69",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "23.6",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "43.17",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "31.94",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-22",
+        "End": "2025-09-22"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "13.74",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "17.55",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "38.26",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "32.51",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "38.41",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "30.08",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "47.03",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "11.6",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "16.44",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "16.37",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-23",
+        "End": "2025-09-23"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "11.08",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "8.53",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "13.4",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "35.02",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "42.32",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "17.01",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "29.98",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "43.26",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "38.19",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "32.24",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-24",
+        "End": "2025-09-24"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "19.96",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "25.29",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "39.35",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "13.33",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "30.44",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "20.53",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "13.33",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "25.88",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "26.14",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "32.23",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-25",
+        "End": "2025-09-25"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "15.87",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "4.21",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "38.15",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "9.1",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "49.98",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "41.35",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "21.54",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "26.6",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "39.71",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "44.61",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-26",
+        "End": "2025-09-26"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "8.26",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "3.27",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "20.97",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "20.75",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "47.75",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "31.02",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "13.02",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "4.96",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "37.45",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "29.17",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-27",
+        "End": "2025-09-27"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "36.9",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "26.2",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "28.51",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "45.04",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "33.06",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "41.86",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "8.98",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "0.77",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "46.32",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "19.09",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-28",
+        "End": "2025-09-28"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "7.3",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "17.76",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "33.24",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "48.51",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "39.61",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "17.38",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "18.2",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "4.81",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "29.83",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "49.37",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-29",
+        "End": "2025-09-29"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "19.7",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "22.61",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "12.96",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "19.6",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "46.07",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "30.31",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "27.56",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "15.02",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "10.18",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "11.63",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-09-30",
+        "End": "2025-09-30"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "2.15",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "6.8",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "34.4",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "29.03",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "27.41",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "25.37",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "28.41",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "22.31",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "24.22",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "19.08",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-01",
+        "End": "2025-10-01"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "48.9",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "12.4",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "5.4",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "41.65",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "30.88",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "18.89",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "9.69",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "18.92",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "34.9",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "22.79",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-02",
+        "End": "2025-10-02"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "1.8",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "12.38",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "44.59",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "9.78",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "33.54",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "14.09",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "3.2",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "22.49",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "44.55",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "30.35",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-03",
+        "End": "2025-10-03"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "13.09",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "10.9",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "10.1",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "34.71",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "39.18",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "7.27",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "27.91",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "25.19",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "9.52",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "31.23",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-04",
+        "End": "2025-10-04"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "25.23",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "44.68",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "23.44",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "41.92",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "38.74",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "45.38",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "45.6",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "0.63",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "3.49",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "22.47",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-05",
+        "End": "2025-10-05"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "43.19",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "31.57",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "3.41",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "10.95",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "41.2",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "35.58",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "10.99",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "25.89",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "31.62",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "44.1",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-06",
+        "End": "2025-10-06"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "12.26",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "27.24",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "15.13",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "38.87",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "28.24",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "26.11",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "11.8",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "44.36",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "1.45",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "46.64",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-07",
+        "End": "2025-10-07"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "13.6",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "8.54",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "34.7",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "48.73",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "21.86",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "3.83",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "37.13",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "18.86",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "2.74",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "43.4",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-08",
+        "End": "2025-10-08"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "47.81",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "8.4",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "33.39",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "26.23",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "42.78",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "26.74",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "33.85",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "5.18",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "2.79",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "33.81",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-09",
+        "End": "2025-10-09"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "7.14",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "25.95",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "27.92",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "36.47",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "14.11",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "35.53",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "39.96",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "4.21",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "10.19",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "20.19",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-10",
+        "End": "2025-10-10"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "19.12",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "14.5",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "15.82",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "6.3",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "48.6",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "40.3",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "29.23",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "37.49",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "1.89",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "7.55",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-11",
+        "End": "2025-10-11"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "37.72",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "12.99",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "41.46",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "22.25",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "38.96",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "32.94",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "27.82",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "47.31",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "41.99",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "11.81",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-12",
+        "End": "2025-10-12"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "37.36",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "7.64",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "14.13",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "21.52",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "6.77",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "49.73",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "40.53",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "8.97",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "38.13",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "17.11",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-13",
+        "End": "2025-10-13"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "47.78",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "36.55",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "27.83",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "9.3",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "36.04",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "24.21",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "49.36",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "36.87",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "44.54",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "6.83",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-14",
+        "End": "2025-10-14"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "20.53",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "30.01",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "2.94",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "33.43",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "22.07",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "13.24",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "22.05",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "28.09",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "44.18",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "26.64",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-15",
+        "End": "2025-10-15"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "14.46",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "19.34",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "11.96",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "34.73",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "28.79",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "25.25",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "24.92",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "14.07",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "29.68",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "13.29",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    },
+    {
+      "TimePeriod": {
+        "Start": "2025-10-16",
+        "End": "2025-10-16"
+      },
+      "Groups": [
+        {
+          "Keys": [
+            "Amazon EC2"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "25.45",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon RDS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "27.91",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon S3"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "29.14",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Lambda"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "25.07",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "28.88",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon DynamoDB"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "44.19",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "AWS Data Transfer"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "36.33",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon ECS"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "43.34",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon VPC"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "7.63",
+              "Unit": "USD"
+            }
+          }
+        },
+        {
+          "Keys": [
+            "Amazon Route 53"
+          ],
+          "Metrics": {
+            "UnblendedCost": {
+              "Amount": "12.29",
+              "Unit": "USD"
+            }
+          }
+        }
+      ],
+      "Total": {},
+      "Estimated": false
+    }
+  ],
+  "DimensionValueAttributes": []
+}
