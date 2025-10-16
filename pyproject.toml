@@ -6,8 +6,13 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "boto3>=1.40.53",
+    "fastapi>=0.119.0",
     "psycopg2-binary>=2.9.11",
+    "pydantic>=2.12.2",
     "python-dateutil>=2.9.0.post0",
+    "python-dotenv>=1.1.1",
     "requests>=2.32.5",
     "sqlalchemy>=2.0.44",
+    "supabase>=2.22.0",
+    "uvicorn>=0.37.0",
 ]
